@@ -1,39 +1,39 @@
 var defaultThreads = [
     {
         id: 1,
-        title: "Thread",
-        author: "Aaron",
+        title: "Chat",
+        author: "Akira",
         date: Date.now(),
         content: "Thread content",
         comments: [
             {
-                author: "Jack",
+                author: "Akira",
                 date: Date.now(),
-                content: "Hey there"
+                content: "Chat here!"
             },
             {
-                author: "Arthur",
+                author: "Akira",
                 date: Date.now(),
-                content: "Hey to you too"
+                content: "Hosted on Github lmfao!"
             }
         ]
     },
     {
         id: 2,
-        title: "Thread 2",
-        author: "Aaron",
+        title: "Recommendations",
+        author: "Akira",
         date: Date.now(),
         content: "Thread content 2",
         comments: [
             {
-                author: "Jack",
+                author: "Akira",
                 date: Date.now(),
-                content: "Hey there"
+                content: "any feature you want me to add?"
             },
             {
-                author: "Arthur",
+                author: "Akira",
                 date: Date.now(),
-                content: "Hey to you too"
+                content: "Send here!"
             }
         ]
     }
